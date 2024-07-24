@@ -1,4 +1,4 @@
-# Description
+# Descriptions
 
 CodingInThePark is a children-friendly Website with a simple look and animated CSS. 
 Quick website demo: https://www.youtube.com/watch?v=rwkRM8pl0HM .
