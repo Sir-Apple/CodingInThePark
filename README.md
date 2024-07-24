@@ -1,6 +1,8 @@
 # Description
 
-CodingInThePark is a children-friendly Website with animated CSS, the website aims for young children to learn about STEM and coding with outdoor activities 
+CodingInThePark is a children-friendly Website with animated CSS, the website aims for young children to learn about STEM and coding with outdoor activities.
+
+The website contains interactive functions including hover as well as mini puzzles.
 
 
 image-puzzle-js
