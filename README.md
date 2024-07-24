@@ -3,9 +3,16 @@
 CodingInThePark is a children-friendly Website with a simple look and animated CSS. 
 Quick website demo: https://www.youtube.com/watch?v=rwkRM8pl0HM .
 
-The website aims for young children to learn about STEM and coding with several outdoor activities, which will be demonstarted below.
+The website is built with the purpose is to let young children to learn about STEM and coding with several outdoor activities, which will be demonstarted below.
 
 The website contains interactive functions including hover as well as mini puzzles.
+
+Contributors and developers:
+- Anh Tran
+- Cheng Hin Lau
+- Domonic Graham
+- Ruoxuan Zhang
+- Rocky Chen
 
 
 image-puzzle-js
