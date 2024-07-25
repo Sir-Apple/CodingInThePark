@@ -58,7 +58,6 @@ The Activity:
 items left  
 6. Announce the scores
 
-Required components:  
 This activity requires:  
 1. A pool of water  
 2. A set of rods and fishable items  
