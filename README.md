@@ -62,7 +62,8 @@ Required components:
 This activity requires:  
 1. A pool of water  
 2. A set of rods and fishable items  
-3. A set of score cards and writing utensils  
+3. A set of score cards and writing utensils
+
 Set up:  
 1. First get or set up a pool of water  
 2. Place the fishable item within the pool of water  
