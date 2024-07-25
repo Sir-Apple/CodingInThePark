@@ -76,3 +76,47 @@ This activity is designed to teach young children to learn the concept of Linked
 A cityhunt is a outdoor game in which the organizers prepare a list defining specific items, which the participants seek to gather the items or complete the tasks on the list. Usually participants work in small teams. The goal is to finish a list of clues and find the finish as fast as possible. A cityhunt is distinguished from a treasure hunt, in that the  latter involves one or a few items that are desirable and completed in sequence, while a cityhunt primarily collects undesirable or useless objects in random order. 
 
 Prepare work: Set certain location, hide the location with simple encryption(QR code puzzle, Morse code, letter switch, search the location by a photo).   
+
+### Programmer Says (If_Then_)
+This activity has 2 names which can be either call ‘Programmer Says’ Game or ‘If_Then_’ Game. The activity is made to teach the participants to learn the "If...Then..." which is one of the basic statement of coding.
+
+#### Description
+The rules are similar to The 'Simon Says' Game. For each game begin, One child will play the programmer and the other child will play the computers, the programmer will order to all computers “If I ____ (fill in the blank), then you _____ (fill in the blank)”. For example, the Programmer below gave the command “If I turn in a circle, Then you turn in a circle.”  
+
+What is If…Then… statement? 
+
+In brief explanation, If..then is basic statement for coding, the program queries if there is a condition and then instructs it to perform certain operations. It can be as basic as a true or false question and answer, or it can prompt for action.
+
+Type of Programmer says (or If…Then…) game  
+
+For this activity, multiple children are required to play together. Each round of the game will have different children to play the programmer (the one who gives orders). The difference in difficulty level will depend on the age of the children participating in the game (generally 3-8 years old).  
+
+### Logic Maze
+This exercise uses association, repetition and familiarisation to teach the learners how to identify and navigate logic gates (except for the “or” type logic gate) in addition to reinforcing teamwork practices.  
+
+
+
+#### Description
+A teamwork maze that uses logic gate puzzles on gates to allow the players to continue in the maze (note that the gates literally have the symbol of the logic gate they represent on them). Teams will act as the input on a logic gate, deciphering clues within the gate’s room to solve the puzzle and continue through the maze. Clues may include things like a diagram or the name of the logic type.
+
+What are logic gates?
+
+Logic gates are electronic gates that respond or open to certain triggers. For example, a lightbulb can be turned on or off by pushing a switch up or down. Though this is a simple logic puzzle, it is still a good example of how they work. The most basic logic gates are:
+
+    AND
+    NOT
+    OR
+
+NOT gates work when the switch is off, AND gates work when all connected circuits are on, and OR gates work when at least one connected circuit is on. Using the lightbulb as an example again, when it is switched off, it is using the NOT gate, and when it is on, it is using either the AND or OR gate.
+
+Setup required  
+• This will require the creation of question/ puzzles involving logic gates  
+• A large area/ building  
+• Construction of the maze 
+
+Game run through  
+1. A team of 2(can be more but 2 is optimal) navigate the maze.  
+2. The team enter a gate room, there are clues as to the gate’s nature.  
+3. The team uses or does not use the switches in the room to solve the gate puzzle  
+4. Once the gate is opened, they proceed on in the maze  
+5. Repeat 1-4 till finished 
