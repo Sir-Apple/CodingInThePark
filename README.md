@@ -19,7 +19,9 @@ Contributors and developers:
 ## Activities breakdown
 ### Puzzle Game
 The chosen Puzzle Game is the Sliding Puzzle Game, demonstration video: https://www.youtube.com/watch?v=uKVkmfYukz8
-The puzzle game is intended to teach young children how a Python coding language turtle works. Python turtle graphics can be considered as a feature to let users to draw programmatically. Or it can be clearly described that it is a function that let the computer draws an image automatically by after received directional commands (Forward, Left, Right and Backward).
+
+The puzzle game is intended to teach young children how a Python coding language turtle works. Python turtle graphics can be considered as a feature to let users to draw programmatically. Or it can be clearly described that it is a function that let the computer draws an image automatically by after received directional commands (Forward, Left, Right and Backward).|
+
 The Sliding Puzzle Game used in this website:
 image-puzzle-js
 Image Puzzle game in pure JavaScript.
