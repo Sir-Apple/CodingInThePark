@@ -1,9 +1,17 @@
 # Coding In The Park
+My first ever website project.
+
+Quick website demo video: https://www.youtube.com/watch?v=rwkRM8pl0HM.
+
+Technology used:
+- HTML
+- JavaScript
+- CSS
+- PHP
+- MySQL
 
 ## Summary
 CodingInThePark is a children-friendly Website with a simple look and animated CSS.
-
-Quick website demo video: https://www.youtube.com/watch?v=rwkRM8pl0HM .
 
 The website is built with the purpose is to let young children to learn about STEM and coding with several outdoor activities, which includes The Puzzle Game, City Hunt, Pictures Observation Game, Programmer Says Game, Fishing Game and The Logic Maze.
 
@@ -19,7 +27,7 @@ Contributors and developers:
 ## Activities breakdown
 ### Puzzle Game
 
-The puzzle game is intended to teach young children how a Python coding language turtle works. Python turtle graphics can be considered as a feature to let users to draw programmatically. Or it can be clearly described that it is a function that let the computer draws an image automatically by after received directional commands (Forward, Left, Right and Backward).|
+The puzzle game is intended to teach young children how a Python coding language turtle works. Python turtle graphics can be considered as a feature to let users to draw programmatically. Or it can be clearly described that it is a function that let the computer draws an image automatically by after received directional commands (Forward, Left, Right and Backward).
 
 #### Description
 The chosen Puzzle Game is the Sliding Puzzle Game, demonstration video: https://www.youtube.com/watch?v=uKVkmfYukz8
@@ -119,3 +127,5 @@ Game run through
 3. The team uses or does not use the switches in the room to solve the gate puzzle  
 4. Once the gate is opened, they proceed on in the maze  
 5. Repeat 1-4 till finished 
+
+## Notice: Unfortunately, this project is currently untestable, only codes can be reviewed.
